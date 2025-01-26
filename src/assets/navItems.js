@@ -1,0 +1,22 @@
+export const navItems = [
+    {
+        id:0,
+        name:"Home",
+        href:"/"
+    },
+    {
+        id:0,
+        name:"Shop",
+        href:"/shop"
+    },
+    {
+        id:0,
+        name:"About",
+        href:"/"
+    },
+    {
+        id:0,
+        name:"Contact",
+        href:"/contact"
+    }
+]
